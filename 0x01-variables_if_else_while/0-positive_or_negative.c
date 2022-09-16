@@ -4,10 +4,11 @@
 /**
  * main - Entry point
  *
- * Return: Always 0 (Success)
+ * Return: Always success
  */
 int main(void)
 {
+
 	int n;
 
 	srand(time(0));
