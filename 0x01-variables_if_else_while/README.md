@@ -1,1 +1,1 @@
-a program that prints the alphabet in lowercase, followed by a new line
+a program that prints all possible different combinations of three digits
