@@ -1,11 +1,11 @@
 #include <stdio.h>
 /**
- * main - print possible combination of two 2-digit
- * numbers
+ * main - print possible combination of two 2-digit numbers
  *
  * Return: returns zero at the end 
  */
 int main(void)
+
 {
 	int i, p;
 
